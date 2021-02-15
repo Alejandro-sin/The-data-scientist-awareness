@@ -2,15 +2,12 @@
 <h1 align="center">
   <img src="images/logo.png">
   <br/>
-  Project: 
+  La conciencia del científico de datos
   <br>
 </h1>
 
 
 
-
-
-# La conciencia del científico de datos.
 
 
 Este repositorio está orientado a la recopilación, investigación, estudio y divulgación de ciencia de datos, el contenido alojado aquí busca ser curado por su autor, la comunidad y quienes deseen aportar a este proyecto.
