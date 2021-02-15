@@ -22,10 +22,13 @@ El conocimiento es de todos.
 
 
 Libros
-* Puedes acceder al drive en este enlace: [Data Science - Books](https://drive.google.com/drive/folders/1x4i4s690v3yUFWL93e_LO_x-xhZaSlqE?usp=sharing)
+* Puedes solicitar acceso al drive en este enlace: [Data Science - Books](https://drive.google.com/drive/folders/1x4i4s690v3yUFWL93e_LO_x-xhZaSlqE?usp=sharing)
 
 Canales
-* (curar)
+| Canal      | Rating     | Comentarios     |
+| ---------- | ---------- | ----------
+| [Link](www.google.com)   | Campo B0   | comentario     |
+| Campo A1   | Campo B1   | ...    |
 
 Plataformas
 * (curar)
