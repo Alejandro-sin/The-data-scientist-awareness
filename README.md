@@ -7,24 +7,26 @@
 </h1>
 
 
+La ciencia de datos es una disciplina emergente que lleva más de 50 años haciendose así misma como una de las áreas del conocimiento con mayor impacto transversal siglo...
+[50 Years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)  ... sin embargo en la actualidad hay una bruma que se hace más grande cuando se trata de poner en palabras sencillas lo que se oye como ciencia ficción.
 
+Este esfuerzo de divulgación existe con el propósito de guiar a  quienes buscan bucear en la información y también para quienes buscan adentrarse en aguas profundas de la inmensa data.
 
+Este repositorio está orientado a la recopilación, investigación, estudio y divulgación de las ciencias de datos comprendiendola como el campo multidisciplinar que es, se abordarán los temas desde distintas miradas que le den al lector comprensión contextual, un grado de abstracción y si lo desea un profundo entendimiento del material, el contenido alojado aquí busca ser curado por sus autorores, la comunidad y quienes deseen aportar conocimiento al mundo.
 
-Este repositorio está orientado a la recopilación, investigación, estudio y divulgación de las ciencias de datos comprendiendo como el campo multidisciplinar que es, el contenido alojado aquí busca ser curado por sus autorores, la comunidad y quienes deseen aportar conocimiento al mundo.
-
-Cabe aclara que el material aquí presente existe únicamente con  propósitos académicos  y  educativos, por lo cual las preguntas, respuestas, tallers y recursos encontrados serán referenciados debidamente, en aquellos casos que no se tenga la fuente primaria queda abierto al dominio del lector y sus posibles referencias, correciones, aportes para mejorar el contenido.
+Cabe aclarar que el material aquí presente existe únicamente con  propósitos académicos  y  educativos, por lo cual las preguntas, respuestas, talleres y recursos encontrados serán referenciados debidamente, en aquellos casos que no se tenga la fuente primaria queda abierto al dominio del lector y sus adecuadas referencias, correciones y/o aportes para mejorar el contenido.
 
 El conocimiento es de todos.
 
 * Es un proyecto en crecimiento que recibe todas las sugerencias, feedback y críticas para poder iterarse.
-* NOTA ESPECIAL: Si, está en español. El conocimiento en tecnología ya es suficientmente complicado para añadirle brechas de lenguaje, sin embargo muchas referencias estarán en inglés y otros idiomas, pero el contenido de este repositorio buscará traducir el conocimiento en todo sentido, desde la semántica hasta el significado.
+* **NOTA ESPECIAL**: Si, está en español. El conocimiento sufre de brechas de lenguaje, nuestra intención es acortarlas, sin embargo muchas referencias estarán en inglés y otros idiomas, nuestro propósito será traducir el conocimiento en todo sentido, desde el idioma, la semántica hasta el significado.
 
 
 
 Libros
 * Puedes solicitar acceso al drive en este enlace: [Data Science - Books](https://drive.google.com/drive/folders/1x4i4s690v3yUFWL93e_LO_x-xhZaSlqE?usp=sharing)
 
-#  GRACIAS NOVIA!  <3
+
 
 Canales
 | Canal      | Rating     | Comentarios     |
