@@ -10,9 +10,9 @@
 
 
 
-Este repositorio está orientado a la recopilación, investigación, estudio y divulgación de ciencia de datos, el contenido alojado aquí busca ser curado por su autor, la comunidad y quienes deseen aportar a este proyecto.
+Este repositorio está orientado a la recopilación, investigación, estudio y divulgación de las ciencias de datos comprendiendo como el campo multidisciplinar que es, el contenido alojado aquí busca ser curado por sus autorores, la comunidad y quienes deseen aportar conocimiento al mundo.
 
-El contenido aquí existe únicamente con  propósito académico y  educativo, por lo cual las preguntas, respuestas y material encontrado serán referenciados en los casos de existir una fuente primaria, en caso contrario queda abierto al dominio del público y sus posibles referencias, correciones y aportes.
+Cabe aclara que el material aquí presente existe únicamente con  propósitos académicos  y  educativos, por lo cual las preguntas, respuestas, tallers y recursos encontrados serán referenciados debidamente, en aquellos casos que no se tenga la fuente primaria queda abierto al dominio del lector y sus posibles referencias, correciones, aportes para mejorar el contenido.
 
 El conocimiento es de todos.
 
