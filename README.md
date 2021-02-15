@@ -24,6 +24,8 @@ El conocimiento es de todos.
 Libros
 * Puedes solicitar acceso al drive en este enlace: [Data Science - Books](https://drive.google.com/drive/folders/1x4i4s690v3yUFWL93e_LO_x-xhZaSlqE?usp=sharing)
 
+#  GRACIAS NOVIA!  <3
+
 Canales
 | Canal      | Rating     | Comentarios     |
 | ---------- | ---------- | ----------
