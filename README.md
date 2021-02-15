@@ -1,4 +1,4 @@
-# DATOS AUTODIDACTAS
+# La conciencia del científico de datos.
 
 Este repositorio está orientado a la recopilación, investigación, estudio y divulgación de ciencia de datos, este repositorio es con propósito académico y  educativo, por lo cual las preguntas, respuestas y material encontrado aquí serán referenciados en los casos de existir una fuente primaria, y no entrar en conflicto con ninguna entidad.
 
