@@ -20,3 +20,16 @@ El conocimiento es de todos.
 * NOTA ESPECIAL: Si, está en español. El conocimiento en tecnología ya es suficientmente complicado para añadirle brechas de lenguaje, sin embargo muchas referencias estarán en inglés y otros idiomas, pero el contenido de este repositorio buscará traducir el conocimiento en todo sentido, desde la semántica hasta el significado.
 
 
+
+Libros
+* Puedes acceder al drive en este enlace: [Data Science - Books](https://drive.google.com/drive/folders/1x4i4s690v3yUFWL93e_LO_x-xhZaSlqE?usp=sharing)
+
+Canales
+* (curar)
+
+Plataformas
+* (curar)
+
+
+
+
