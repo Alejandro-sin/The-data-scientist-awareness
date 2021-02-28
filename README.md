@@ -27,7 +27,7 @@ Libros
 Canales
 | Canal      | Rating     | Comentarios     |
 | ---------- | ---------- | ----------
-| [Link](www.google.com)   | Campo B0   | comentario     |
+| [365 Datascience]([www.google.com](https://www.youtube.com/watch?v=vNNoNs_VeWc&ab_channel=365DataScience))   | Campo B0   | comentario     |
 | Campo A1   | Campo B1   | ...    |
 
 Plataformas
@@ -36,3 +36,46 @@ Plataformas
 
 
 
+## Librerías interesantes:
+
+* [spanlp](https://pypi.org/project/spanlp/): 
+
+
+
+## Listas de libros gratuitos ( Curar )
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-es.md#0---meta-listas)
+
+
+
+## Recursos Mastestros
+
+* [Data-Flair](https://data-flair.training/blogs/)
+
+
+
+## COMPUTER SCIENCE
+
+### PYTHON TUTORIALS
+
+* [30 Days of Python](https://www.youtube.com/watch?v=RGor6fssp6c&list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6&ab_channel=CodingEntrepreneurs)
+
+* [Python-Postgresl](https://www.youtube.com/watch?v=SK7LqjxBbh0&ab_channel=FaztCode)
+
+
+
+
+
+
+
+## DATA ENGINEER
+
+* [Data Engineerr](https://www.youtube.com/watch?v=73QC3qw5b2Y&ab_channel=KarolinaSowinska)
+
+* [What is Data Pipeline | How to design Data Pipeline ? - ETL vs Data pipeline](https://www.youtube.com/watch?v=VtzvF17ysbc&ab_channel=ITkFunde)
+
+* [30 Days of Python - Day 17 - Data Science Pipeline with Jupyter, Pandas & FastAPI - Python TUTORIAL](https://www.youtube.com/watch?v=CApCQKuWqBM&ab_channel=CodingEntrepreneurs)
+
+
+
+## CHANELS
+* [Karolina Sowinska](https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)

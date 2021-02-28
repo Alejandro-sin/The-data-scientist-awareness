@@ -1,0 +1,261 @@
+1. Data Science Basic Questions and Terms
+Q1: Explain the steps involved in data science?
+Q2: Explain variable and different types of variables?
+Q3: Explain Categorical measurement?
+Q4: Explain Binary variables?
+Q5: Explain Nominal measurement?
+Q6: Explain Ordinal variable?
+Q7: Explain Continuous variables?
+Q8: Explain Discrete variables?
+Q9: Is it possible to convert continuous values to discrete and vice versa?
+Q10: What are interval variables?
+Q11: What are ratio variables?
+Q12: What are Univariate and Bivariate variables?
+Q13: What is measurement error?
+Q14: Explain Validity?
+Q15: Explain Reliability?
+Q16: What are the different ways to test hypotheses?
+Q17: Explain the different types of variation?
+Q18: Explain repeated-measures design?
+Q19: What is independent design?
+Q20: Explain the role of randomization w.r.t variation?
+Q21: Explain various summary measures.
+Q22: Explain alternate hypotheses and null hypotheses.
+Q23: What is p value?
+Q24: What happens when null hypotheses is rejected?
+Q25: Explain directional and non-directional hypotheses.
+Q26: Explain fit of model?
+Q27: What is relation between sample and population?
+Q28: What is estimation?
+Q29: Explain deviation score?
+Q30: Explain variance?
+Q31: Explain Standard deviation.
+Q32: Explain standard error.
+Q33: What is precision?
+Q34: Explain confidence intervals.
+Q35: Explain confidence level.
+Q36: Explain alpha.
+Q37: Explain Beta.
+Q38: Explain Accuracy.
+Q39: Explain Bias.
+Q40: What is central limit theorem?
+Q41: Explain Absolute value?
+Q42: What is degree of freedom?
+Q43: Explain cluster sampling.
+Q44: Explain Correlation coefficients?
+Q45: Explain sample space.
+Q46: What is non parametric algorithm?
+Q47: How can learning be classified?
+Q48: What is classification?
+Q49: Explain the steps involved in classification.
+Q50: What is regression?
+Q51: Explain the similarities and differences between Classification and Regression.
+Q52: Explain various terms encountered during classification algorithm.
+Q53: Explain multi class classification?
+Q54: Explain multi label classification?
+Q55: Explain how multi label problem can be solved?
+Q56: Explain some important metrics with respect to testing a model?
+Q57: What is logistic regression?
+Q58: Explain Naïve Bayes.
+Q59: What is Stochastic Gradient Descent?
+Q60: Explain decision tree algorithm.
+Q61: What is Gini index?
+Q62: Is Gini index the only means which can be used in decision tree?
+Q63: What is Pruning w.r.t. decision tree?
+Q64: What is random forest?
+Q65: Explain the difference between Random forest and decision tree.
+Q66: What is overfitting and underfitting?
+Q67: What are the reasons for under fitting occurrences?
+Q68: Does over fitting get affected by noise?
+Q69: Explain KNN (K Nearest Neighbour) steps involved, advantage and disadvantage.
+Q70: Explain selection bias.
+Q71: What does selection bias indicate w.r.t. algorithm?
+Q72: What is Bootstrap sample?
+Q73: What is Resampling?
+Q74: Explain tail.
+Q75: Explain the difference between one way test and two way test.
+Q76: Explain degree of freedom.
+Q77: What is predictive modeling?
+Q78: What is time series analysis?
+Q79: What is deep learning?
+Q80: What is Convolutional Neural Network?
+Q81: What are different ways to determine optimal value of clusters?.
+Q82: What are various distance related functions for similarity measures?
+1. Python Programming Questions
+Q1: Is Python Object oriented?
+Q2: Is Python case sensitive?
+Q3: What kind of language is Python?
+Q4: What are different versions of Python?
+Q5: Explain different implementations of Python?
+Q6: Is Python loosely typed?
+Q7: How to start a new block in Python?
+Q8: How to get data type of a particular variable?
+Q9: How many ways can Python program be run?
+Q10: Explain the importance of Pylint and Pychecker.
+Q11: Explain Zen of Python.
+Q12: How to print Zen in Python?
+Q13: Explain Python data types.
+Q14: How can we switch variables in Python?
+Q15: What is the use of pass statement in Python?
+Q16: Is Python pass by value or pass by reference?
+Q17: Does Python supports chained operations?
+Q18: Explain ALL and ANY.
+Q19: Explain the difference between IS and ==.
+Q20: Explain supported collection of data type w.r.t. Python?
+Q21: Create a simple number list?
+Q22: Can you create nested list?
+Q23: Explain CRUD (Create, Update, and Delete) operations from list.
+Q24: Explain operations in dictionary.
+Q25: Explain operation with tuples.
+Q26: Explain del?
+Q27: If del can remove variable can it remove tuple variable?
+Q28: Delete last element in a list.
+Q29: Predict the output of following code.
+Q30: What do you mean by list comprehension?
+Q31: Explain the preferred way for looping through list?
+Q32: Find the reverse of the dictionary?
+Q33: How to sort dictionary by value?
+Q34: What is the use of shuffle function?
+Q35: What is the preferred way to get a value based on key in Python?
+Q36: Explain alternate way of merging 2 or more dictionaries without using update method?
+Q37: What is the preferred way of fetching last element/second last and so on from a list?
+Q38: What is the preferred way for reversing a list?
+Q39: Explain various string utility functions in Python.
+Q40: How to check whether two strings are equal.
+Q41: Can string use single quote or double quote?
+Q42: Explain type conversions on collection types.
+Q43: Explain set theory operations supported by set data type.
+Q44: Explain frozenset?
+Q45: Explain functions in Python?
+Q46: What is a Boolean function?
+Q47: Can we specify data type for arguments as well as return types in Python?
+Q48: Explain variable arguments?
+Q49: Write a program to find occurrences or count of characters in given word.
+Q50: What is **kwargs?
+Q51: Write a simple Lambda expression?
+Q52: Lambda forms in Python contain statements? True or False?
+Q53: Explain filter function?
+Q54: Explain steps involved in reading and writing a file?
+Q55: Explain the term “withstatement”?
+Q56: Explain the preferred way of reading a big file?
+Q57: Explain modules in Python.
+Q58: Explain different ways of importing modules.
+Q59: Can we create our own module?
+Q60: Explain in brief about os module and its corresponding functions.
+Q61: Using os module print the directory structure.
+Q62: Explain dir function.
+Q63: Explain exception handling in Python.
+Q64: How to create user defined exception?
+Q65: What is the use of raise statement?
+Q66: How to create own class in Python? Explain constructors.
+Q67: Is it necessary to have the first argument of class function as self? Can’t we rename it to any other variable?
+Q68: Explain inheritance in Python.
+Q69: How to determine whether a particular class is sub class?
+Q70: Does Python support multiple inheritance?
+Q71: How is diamond problem resolved in case of Python?
+Q72: Does Python support private method and variables?
+Q73: Can __ be used for other purpose than creating private variables or functions?
+Q74: Does Python support abstract classes?
+Q75: Differentiate between static methods and class methods in Python.
+Q76: What are named tuple?
+Q77: How to sort using lamdas?
+Q78: Explain Generators?
+Q79: What is generator expression?
+Q80: When Python program exits, all the memory is released? Say true or false?
+Q81: Can a function be passed as parameter to another function?
+Q82: Can a function be retuned as result from another function?
+Q83: Explain decorator function.
+Q84: How can we represent big text in Python?
+Q85: What is PEP 8?
+Q86: What is anaconda?
+Q87: How to install external modules?
+Q88: What is Jupyter notebook?
+Q89: What is pickling and unpickling?
+Q90: Explain the importance of setup.py?
+Q91: Is it possible to make connections to database using Python?
+Q92: Explain meta programming?
+Q93: Explain Python memory model.
+1. Numpy InterviewQuestions
+Q1: What is numpy?
+Q2: How to install numpy?
+Q3: How to create single dimension numpy array?
+Q4: Explain different attributes provided by numpy?
+Q5: Explain some utility methods provided by numpy for creating different elements?
+Q6: How can we change shape of an object?
+Q7: Which all data types are supported in Python?
+Q8: Explain various simple mathematical operations which can be done on numpy?
+Q9: Explain slicing operation in numpy?
+Q10: Explain Boolean indexing?
+Q11: Perform matrix multiplication using numpy?
+Q12: Explain various functions available with numpy?
+Q13: What is broadcast?
+Q14: Explain rules of broadcasting.
+Q15: Explain some statistical measures supported by numpy.
+Q16: Explain functions available in numpy.linalg.
+Q17: How to save numpy data from memory to flat file?
+Q18: What is the use of where and extract?
+Q19: What is the use of ndenumerate?
+Q20: Explain how can we draw a histogram using numpy?
+1. Pandas InterviewQuestions
+Q1: What is Pandas?
+Q2: How does Pandas represent data?
+Q3: How to create Series?
+Q4: How to create Data frame?
+Q5: How are missing values represented in data frame?
+Q6: Explain the process of creating indexes w.r.t. pandas?
+Q7: Explain various attributes associated with series.
+Q8: Explain various statistical measures supported by pandas.
+Q9: Explain reindexing.
+Q10: Explain bfill and ffill.
+Q11: What all type of iterations are provided in pandas data frame?
+Q12: Explain how sorting is supported in pandas?
+Q13: How to override default reload option in pandas?
+Q14: Explain various slicing options available with pandas?
+Q15: Explain advanced statistics with pandas.
+Q16: Explain rolling function.
+Q17: How can we handle NA in pandas?
+Q18: Explain group by function.
+Q19: Explain merge functions w.r.t data frame.
+Q20: Explain concat method.
+Q21: Explain how time related range can be generated in pandas.
+Q22: Explain which all data sources can pandas retrieve values.
+Q23: Can you compare some of the functions of R and Python?
+Q24: How to print a histogram using pandas?
+1. Scipy and its Applications
+Q1: Explain Scipy library.
+Q2: Explain how can we perform Normality Tests.
+Q3: Explain how can we perform correlation test?
+Q4: Explain tests pertaining to Parametric Statistical Hypothesis Tests.
+Q5: Explain how to test Nonparametric Statistical Hypothesis Tests.
+Q6: Implement logistic regression in Python?
+Q7: Explain how to implement decision tree in Python.
+Q8: How to implement Random forest in Python?
+Q9: How to implement support vector machine in Python?
+Q10: Which all kernels are supported by svm in Python?
+Q11: Implement KNN algorithm using Python.
+Q12: How to select k in KNN algorithm?
+Q13: How to implement K means in Python?
+Q14: How can accuracy of any model be calculated?
+Q15: Explain regression metrics.
+Q16: Explain how we can print a decision tree or see the rules of the decision tree?
+Q17: What is the use of boosting techniques?
+Q18: Explain some of the advantages and disadvantages of boosting techniques?
+Q19: What is AdaBoost?
+Q20: Explain Gradient boosting?
+Q21: Explain XGBoost?
+Q22: Explain the differences/similarities between bagging and Boosting?
+Q23: Write a small snippet to perform operation with neural networks using tensorflow and keras?
+1. Matplotlib Samples to Remember
+Q1: Explain how to draw bar plot.
+Q2: How to draw histogram?
+Q3: How to draw line chart?
+Q4: Draw Pie chart.
+Q5: How to get the equation of the line printed line plot?
+Q6: Draw scatter plot.
+1. Statistics with Excel Sheet
+Q1: Does Excel has any support for statistics?
+Q2: Find correlation using Excel.
+Q3: How to get Histogram in excel?
+Q4: Explain how to get Descriptive Statistics using Excel.
+Q5: Explain how to perform Anova in excel?
+Q6: Explain how to perform Rank and Percentile in excel.
